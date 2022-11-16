@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/othimar/frontend-mentor-time-tracking-dashboard)
+- [Live Site URL](https://frontend-mentor-time-tracking-dashboard-seven.vercel.app/)
 
 ## My process
 
