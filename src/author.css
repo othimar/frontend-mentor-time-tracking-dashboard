@@ -1,0 +1,30 @@
+.author{
+    background-color: var(--blue);
+    padding: 40px 40px 60px 40px;
+    border-radius: 16px;
+}
+
+.author img{
+    width: 75px;
+    border: 3px solid white;
+    border-radius: 50%;
+}
+.author .owner{
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.596);
+    font-size: 13px;
+    margin-top: 35px;
+}
+
+.author .name{
+    font-weight: 400;
+    font-size: 2em;
+    line-height: 1.4;
+}
+
+@media (min-width: 800px) {
+    .author{
+        max-width: 250px;
+        width: fit-content;
+    }
+}

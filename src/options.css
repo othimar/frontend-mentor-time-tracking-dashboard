@@ -1,0 +1,23 @@
+.options{
+    padding-bottom: 10px;
+}
+.options ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+.options ul li{
+    color: var(--desaturated-blue);
+    line-height: 2.4;
+    display: inline-block;
+}
+.options ul li:hover{
+    color:white;
+    cursor: pointer;
+}
+
+@media (min-width:800px){
+    .options ul{
+        flex-direction: column; 
+    }
+}
